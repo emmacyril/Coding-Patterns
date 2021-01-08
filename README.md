@@ -1,2 +1,2 @@
-# Coding-Patterns
+# Coding Patterns
 Grokking the Coding Interview
